@@ -9,7 +9,7 @@
 ## My Weekly Schedule
 
 - **Monday**
-  - 10:00 – [COMP1238 - Lab](https://learn.georgebrown.ca/d2l/home/1238)
+  - 10:00 – [COMP1238 - Lab](https://learn.georgebrown.ca/d2l/home/412494)
   
 
 - **Tuesday**
@@ -17,6 +17,6 @@
   - 14:00 – [Elective](https://learn.georgebrown.ca/d2l/home/399568)
 
 - **Friday**
-  - 12:00 – [COMP1238 - Lab](https://learn.georgebrown.ca/d2l/home/1238)
+  - 12:00 – [COMP1238 - Lab](https://learn.georgebrown.ca/d2l/home/412494)
 
 
